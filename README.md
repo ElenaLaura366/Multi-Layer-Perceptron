@@ -19,7 +19,7 @@ A Multi-Layer Perceptron (MLP) is a form of artificial neural network with multi
 1. Clone this repository:
 
     ```
-    git clone https://github.com/user/MLP.git
+    git clone https://github.com/ElenaLaura366/Multi-Layer-Perceptron.git
    ```
     
 2. Search and install the dataset [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
